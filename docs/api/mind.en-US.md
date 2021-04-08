@@ -5,7 +5,7 @@ The mind map format of graph.
 ## Usage
 
 ```jsx
-import GGEditor, { Mind } from 'gg-editor';
+import GGEditor, { Mind } from 'ccs-gg-editor';
 
 <GGEditor>
   <Mind />

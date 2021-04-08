@@ -1,6 +1,6 @@
 import React from 'react';
 import { Divider } from 'antd';
-import { Toolbar } from 'gg-editor';
+import { Toolbar } from 'ccs-gg-editor';
 import ToolbarButton from './ToolbarButton';
 import styles from './index.less';
 

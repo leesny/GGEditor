@@ -3,7 +3,7 @@
 ## Usage
 
 ```jsx
-import { withPropsAPI } from 'gg-editor';
+import { withPropsAPI } from 'ccs-gg-editor';
 
 class Component extends React.Component {
   componentDidMount() {

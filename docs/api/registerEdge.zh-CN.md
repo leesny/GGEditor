@@ -7,7 +7,7 @@
 > G6 [自定义图项](https://antv.alipay.com/zh-cn/g6/1.x/tutorial/custom-shape.html) 教程
 
 ```jsx
-import GGEditor, { Flow, RegisterEdge } from 'gg-editor';
+import GGEditor, { Flow, RegisterEdge } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

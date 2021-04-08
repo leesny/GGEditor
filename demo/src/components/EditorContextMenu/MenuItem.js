@@ -1,5 +1,5 @@
 import React from 'react';
-import { Command } from 'gg-editor';
+import { Command } from 'ccs-gg-editor';
 import upperFirst from 'lodash/upperFirst';
 import IconFont from '../../common/IconFont';
 import styles from './index.less';

@@ -5,7 +5,7 @@
 ## 使用说明
 
 ```jsx
-import GGEditor, { Flow, RegisterCommand } from 'gg-editor';
+import GGEditor, { Flow, RegisterCommand } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

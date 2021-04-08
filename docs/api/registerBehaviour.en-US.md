@@ -7,7 +7,7 @@ To register a behaviour.
 > G6 [Custom Interaction (Chinese)](https://antv.alipay.com/zh-cn/g6/1.x/tutorial/custom-interaction.html) Tutorial
 
 ```jsx
-import GGEditor, { Flow, RegisterBehaviour } from 'gg-editor';
+import GGEditor, { Flow, RegisterBehaviour } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Row, Col } from 'antd';
-import GGEditor, { Koni } from 'gg-editor';
+import GGEditor, { Koni } from 'ccs-gg-editor';
 import EditorMinimap from '../components/EditorMinimap';
 import { KoniContextMenu } from '../components/EditorContextMenu';
 import { KoniToolbar } from '../components/EditorToolbar';

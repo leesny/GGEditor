@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'antd';
-import { ItemPanel, Item } from 'gg-editor';
+import { ItemPanel, Item } from 'ccs-gg-editor';
 import styles from './index.less';
 
 const FlowItemPanel = () => {

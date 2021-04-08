@@ -7,7 +7,7 @@ To register an edge.
 > G6 [Custom Shape (Chinese)](https://antv.alipay.com/zh-cn/g6/1.x/tutorial/custom-shape.html) Tutorial
 
 ```jsx
-import GGEditor, { Flow, RegisterEdge } from 'gg-editor';
+import GGEditor, { Flow, RegisterEdge } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

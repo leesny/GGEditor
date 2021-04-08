@@ -3,7 +3,7 @@
 ## 监听事件
 
 ```jsx
-import GGEditor, { Flow } from 'gg-editor';
+import GGEditor, { Flow } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow
@@ -38,7 +38,7 @@ import GGEditor, { Flow } from 'gg-editor';
 此类事件可以结合前缀 `node`、`edge`、`group`、`guide`、`anchor` 组合使用，例如：
 
 ```jsx
-import GGEditor, { Flow } from 'gg-editor';
+import GGEditor, { Flow } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow

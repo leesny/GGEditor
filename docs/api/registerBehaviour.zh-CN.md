@@ -7,7 +7,7 @@
 > G6 [自定义交互](https://antv.alipay.com/zh-cn/g6/1.x/tutorial/custom-interaction.html) 教程
 
 ```jsx
-import GGEditor, { Flow, RegisterBehaviour } from 'gg-editor';
+import GGEditor, { Flow, RegisterBehaviour } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

@@ -1,4 +1,4 @@
-declare module 'gg-editor' {
+declare module 'ccs-gg-editor' {
   
   export interface Align {
     line?: any

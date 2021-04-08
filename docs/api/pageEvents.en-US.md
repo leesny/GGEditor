@@ -3,7 +3,7 @@
 ## Usage
 
 ```jsx
-import GGEditor, { Flow } from 'gg-editor';
+import GGEditor, { Flow } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow
@@ -38,7 +38,7 @@ import GGEditor, { Flow } from 'gg-editor';
 These `SyntheticEvent` are available with the one of the following prefixes: `node`, `edge`, `group`, `guide` or `anchor`. For example:
 
 ```jsx
-import GGEditor, { Flow } from 'gg-editor';
+import GGEditor, { Flow } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow

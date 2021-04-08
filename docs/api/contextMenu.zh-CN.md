@@ -18,7 +18,7 @@ import GGEditor, {
   GroupMenu,
   MultiMenu,
   CanvasMenu,
-} from 'gg-editor';
+} from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

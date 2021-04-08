@@ -7,7 +7,7 @@
 不指定宽高的情况下则自动适应容器尺寸
 
 ```jsx
-import GGEditor, { Flow, Minimap } from 'gg-editor';
+import GGEditor, { Flow, Minimap } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

@@ -1,5 +1,5 @@
 import React from 'react';
-import { RegisterNode } from 'gg-editor';
+import { RegisterNode } from 'ccs-gg-editor';
 
 class KoniCustomNode extends React.Component {
   render() {

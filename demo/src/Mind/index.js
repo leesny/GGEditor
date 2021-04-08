@@ -1,6 +1,6 @@
 import React from 'react';
 import { Row, Col } from 'antd';
-import GGEditor, { Mind } from 'gg-editor';
+import GGEditor, { Mind } from 'ccs-gg-editor';
 import EditorMinimap from '../components/EditorMinimap';
 import { MindContextMenu } from '../components/EditorContextMenu';
 import { MindToolbar } from '../components/EditorToolbar';

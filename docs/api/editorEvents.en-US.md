@@ -3,7 +3,7 @@
 ## SyntheticEvent
 
 ```jsx
-import GGEditor, { Flow } from 'gg-editor';
+import GGEditor, { Flow } from 'ccs-gg-editor';
 
 <GGEditor
   onBeforeCommandExecute={({ command }) => {

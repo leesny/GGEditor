@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'antd';
-import { Minimap } from 'gg-editor';
+import { Minimap } from 'ccs-gg-editor';
 
 const EditorMinimap = () => {
   return (

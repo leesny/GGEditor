@@ -1,5 +1,5 @@
 import React from 'react';
-import { NodeMenu, EdgeMenu, GroupMenu, MultiMenu, CanvasMenu, ContextMenu } from 'gg-editor';
+import { NodeMenu, EdgeMenu, GroupMenu, MultiMenu, CanvasMenu, ContextMenu } from 'ccs-gg-editor';
 import MenuItem from './MenuItem';
 import styles from './index.less';
 

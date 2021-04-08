@@ -7,7 +7,7 @@ A toolbar that can be configuated with the command buttons and control its avail
 It must be used with the [`<Command />`](./command.en-US.md) component.
 
 ```jsx
-import GGEditor, { Flow, Command, Toolbar } from 'gg-editor';
+import GGEditor, { Flow, Command, Toolbar } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

@@ -7,7 +7,7 @@ To register a guide.
 > G6 [Custom Shape (Chinese)](https://antv.alipay.com/zh-cn/g6/1.x/tutorial/custom-shape.html) Tutorial
 
 ```jsx
-import GGEditor, { Flow, RegisterGuide } from 'gg-editor';
+import GGEditor, { Flow, RegisterGuide } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

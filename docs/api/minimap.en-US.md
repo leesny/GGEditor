@@ -5,7 +5,7 @@ A mini-map that will auto-resize if its width and height have not been specified
 ## Usage
 
 ```jsx
-import GGEditor, { Flow, Minimap } from 'gg-editor';
+import GGEditor, { Flow, Minimap } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

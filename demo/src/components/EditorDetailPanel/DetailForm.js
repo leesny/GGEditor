@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import { Card, Form, Input, Select } from 'antd';
-import { withPropsAPI } from 'gg-editor';
+import { withPropsAPI } from 'ccs-gg-editor';
 import upperFirst from 'lodash/upperFirst';
 
 const { Item } = Form;

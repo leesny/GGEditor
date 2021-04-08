@@ -7,7 +7,7 @@ To register a node.
 > G6 [Custom Shape (Chinese)](https://antv.alipay.com/zh-cn/g6/1.x/tutorial/custom-shape.html) Tutorial
 
 ```jsx
-import GGEditor, { Flow, RegisterNode } from 'gg-editor';
+import GGEditor, { Flow, RegisterNode } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

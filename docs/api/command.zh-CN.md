@@ -7,7 +7,7 @@
 此组件只能嵌套在 [`<Toolbar />`](toolbar.zh-CN.md) 或 [`<ContextMenu />`](contextMenu.zh-CN.md) 组件内使用：
 
 ```jsx
-import GGEditor, { Flow, Command, Toolbar, ContextMenu } from 'gg-editor';
+import GGEditor, { Flow, Command, Toolbar, ContextMenu } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

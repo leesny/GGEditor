@@ -7,7 +7,7 @@ A panel of the item.
 It must be used with the `<Item />` component. If `<Item />` contains the `src` props, the item will display that image as overview.
 
 ```jsx
-import GGEditor, { Flow, Item, ItemPanel } from 'gg-editor';
+import GGEditor, { Flow, Item, ItemPanel } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

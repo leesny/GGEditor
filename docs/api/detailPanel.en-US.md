@@ -15,7 +15,7 @@ import GGEditor, {
   GroupPanel,
   MultiPanel,
   CanvasPanel,
-} from 'gg-editor';
+} from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

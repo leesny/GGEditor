@@ -7,7 +7,7 @@ A command for different actions.
 This component can only be nested within the [`<Toolbar />`](./toolbar.en-US.md) or [`<ContextMenu />`](./contextMenu.en-US.md) components.
 
 ```jsx
-import GGEditor, { Flow, Command, Toolbar, ContextMenu } from 'gg-editor';
+import GGEditor, { Flow, Command, Toolbar, ContextMenu } from 'ccs-gg-editor';
 
 <GGEditor>
   <Flow />

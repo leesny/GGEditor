@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'antd';
-import { NodePanel, CanvasPanel, DetailPanel } from 'gg-editor';
+import { NodePanel, CanvasPanel, DetailPanel } from 'ccs-gg-editor';
 import DetailForm from './DetailForm';
 import styles from './index.less';
 
